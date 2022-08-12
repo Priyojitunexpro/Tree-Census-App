@@ -1,0 +1,1350 @@
+[
+    {
+        "ï»¿botanical": "Acacia catechu",
+        "local": "Khair"
+    },
+    {
+        "ï»¿botanical": "Acacia farnesiana",
+        "local": "Dev babhul"
+    },
+    {
+        "ï»¿botanical": "Acacia ferruginea",
+        "local": "Pandhra khair"
+    },
+    {
+        "ï»¿botanical": "Acacia leucophloea",
+        "local": "Himvar"
+    },
+    {
+        "ï»¿botanical": "Acacia mangium",
+        "local": "Vilayati babhul"
+    },
+    {
+        "ï»¿botanical": "Acacia nilotica",
+        "local": "Babhul (Ram Kathi)"
+    },
+    {
+        "ï»¿botanical": "Acacia nilotica subsp. indica",
+        "local": "Babhul"
+    },
+    {
+        "ï»¿botanical": "Acacia planifrons",
+        "local": "Chatri Babhul"
+    },
+    {
+        "ï»¿botanical": "Acacia polyacantha",
+        "local": "Son Khair"
+    },
+    {
+        "ï»¿botanical": "Acacia senegal",
+        "local": "Khair-gum"
+    },
+    {
+        "ï»¿botanical": "Acrocarpus fraxinifolius",
+        "local": "Tokphal"
+    },
+    {
+        "ï»¿botanical": "Adansonia digitata",
+        "local": "Gorakh chinch"
+    },
+    {
+        "ï»¿botanical": "Adenanthera pavonina",
+        "local": "Thorla goonj"
+    },
+    {
+        "ï»¿botanical": "Aegle marmelos",
+        "local": "Bel"
+    },
+    {
+        "ï»¿botanical": "Afrocarpus gracilior",
+        "local": "Fern Pine"
+    },
+    {
+        "ï»¿botanical": "Ailanthus excelsa",
+        "local": "Mahavruksha"
+    },
+    {
+        "ï»¿botanical": "Ailanthus triphysa",
+        "local": "Halmaddi"
+    },
+    {
+        "ï»¿botanical": "Alangium salviifolium",
+        "local": "Ankol"
+    },
+    {
+        "ï»¿botanical": "Albizia chinensis",
+        "local": "Udal"
+    },
+    {
+        "ï»¿botanical": "Albizia lebbeck",
+        "local": "Shirish"
+    },
+    {
+        "ï»¿botanical": "Albizia lucidior",
+        "local": "Potka shirish"
+    },
+    {
+        "ï»¿botanical": "Albizia procera",
+        "local": "Kinhai"
+    },
+    {
+        "ï»¿botanical": "Albizia saman",
+        "local": "Parjanya vruksha"
+    },
+    {
+        "ï»¿botanical": "Alstonia macrophylla",
+        "local": "Mothi satveen"
+    },
+    {
+        "ï»¿botanical": "Alstonia scholaris",
+        "local": "Saptaparni"
+    },
+    {
+        "ï»¿botanical": "Amherstia nobilis",
+        "local": "Urvashi"
+    },
+    {
+        "ï»¿botanical": "Anacardium occidentale",
+        "local": "Kaju"
+    },
+    {
+        "ï»¿botanical": "Annona glabra",
+        "local": "Kattatha"
+    },
+    {
+        "ï»¿botanical": "Annona muricata",
+        "local": "Hanuman phal"
+    },
+    {
+        "ï»¿botanical": "Annona reticulata",
+        "local": "Ramphal"
+    },
+    {
+        "ï»¿botanical": "Annona squamosa",
+        "local": "Sitaphal"
+    },
+    {
+        "ï»¿botanical": "Anogeissus latifolia",
+        "local": "Dhawda"
+    },
+    {
+        "ï»¿botanical": "Aphanamixis polystachya",
+        "local": "Raktharohida"
+    },
+    {
+        "ï»¿botanical": "Araucaria columnaris",
+        "local": "Christmas tree"
+    },
+    {
+        "ï»¿botanical": "Areca catechu",
+        "local": "Supari"
+    },
+    {
+        "ï»¿botanical": "Arenga wightii",
+        "local": "Wight's sago palm"
+    },
+    {
+        "ï»¿botanical": "Artabotrys odoratissimus",
+        "local": "Hirva chafa"
+    },
+    {
+        "ï»¿botanical": "Artocarpus altilis",
+        "local": "Nirphanas"
+    },
+    {
+        "ï»¿botanical": "Artocarpus heterophyllus",
+        "local": "Phanas"
+    },
+    {
+        "ï»¿botanical": "Artocarpus lacucha",
+        "local": "Badhar"
+    },
+    {
+        "ï»¿botanical": "Atalantia racemosa",
+        "local": "Makad limbu"
+    },
+    {
+        "ï»¿botanical": "Azadirachta indica",
+        "local": "Kaduneem"
+    },
+    {
+        "ï»¿botanical": "Barringtonia acutangula",
+        "local": "Newar"
+    },
+    {
+        "ï»¿botanical": "Barringtonia racemosa",
+        "local": "Sadphali"
+    },
+    {
+        "ï»¿botanical": "Barringtonia asiatica",
+        "local": "Samudraphal"
+    },
+    {
+        "ï»¿botanical": "Bauhinia blakeana",
+        "local": "Kanchan raj"
+    },
+    {
+        "ï»¿botanical": "Bauhinia purpurea",
+        "local": "Gulabi kanchan"
+    },
+    {
+        "ï»¿botanical": "Bauhinia racemosa",
+        "local": "Apta"
+    },
+    {
+        "ï»¿botanical": "Bauhinia roxburghiana",
+        "local": "Semla kanchan"
+    },
+    {
+        "ï»¿botanical": "Bauhinia tomentosa",
+        "local": "Piwli kanchan"
+    },
+    {
+        "ï»¿botanical": "Bauhinia variegata",
+        "local": "Kanchan"
+    },
+    {
+        "ï»¿botanical": "Bixa orellana",
+        "local": "Shendri"
+    },
+    {
+        "ï»¿botanical": "Bombax ceiba",
+        "local": "Katesavar"
+    },
+    {
+        "ï»¿botanical": "Bombax insigne",
+        "local": "Dev savar"
+    },
+    {
+        "ï»¿botanical": "Borassus flabellifer",
+        "local": "Taad"
+    },
+    {
+        "ï»¿botanical": "Boswellia serrata",
+        "local": "Salai"
+    },
+    {
+        "ï»¿botanical": "Bridelia retusa",
+        "local": "Asana"
+    },
+    {
+        "ï»¿botanical": "Broussonetia papyrifera",
+        "local": "Jungli tooti"
+    },
+    {
+        "ï»¿botanical": "Brownea coccinea",
+        "local": "Lal zumbar"
+    },
+    {
+        "ï»¿botanical": "Buchanania cochinchinensis",
+        "local": "Charoli"
+    },
+    {
+        "ï»¿botanical": "Bursera penicillata",
+        "local": "Vilayati salai"
+    },
+    {
+        "ï»¿botanical": "Butea monosperma",
+        "local": "Palas"
+    },
+    {
+        "ï»¿botanical": "Butea monosperma var.lutea",
+        "local": "Piwla palas"
+    },
+    {
+        "ï»¿botanical": "Caesalpinia pulcherrima",
+        "local": "Shankasur"
+    },
+    {
+        "ï»¿botanical": "Calamus rotang",
+        "local": "Velu"
+    },
+    {
+        "ï»¿botanical": "Callistemon citrinus",
+        "local": "Bottle brush"
+    },
+    {
+        "ï»¿botanical": "Callistemon lanceolatus",
+        "local": "Bottle brush"
+    },
+    {
+        "ï»¿botanical": "Callistemon salignus",
+        "local": "White bottle brush"
+    },
+    {
+        "ï»¿botanical": "Callistemon viminalis",
+        "local": "Cheel"
+    },
+    {
+        "ï»¿botanical": "Calophyllum inophyllum",
+        "local": "Surangi"
+    },
+    {
+        "ï»¿botanical": "Cananga odorata",
+        "local": "Chape"
+    },
+    {
+        "ï»¿botanical": "Canarium strictum",
+        "local": "Dhoop"
+    },
+    {
+        "ï»¿botanical": "Capparis divaricata",
+        "local": "Pachunda"
+    },
+    {
+        "ï»¿botanical": "Capparis grandis",
+        "local": "Kandel"
+    },
+    {
+        "ï»¿botanical": "Carallia brachiata",
+        "local": "Phanshi"
+    },
+    {
+        "ï»¿botanical": "Careya arborea",
+        "local": "Kumbha"
+    },
+    {
+        "ï»¿botanical": "Caryota urens",
+        "local": "Bherli mad"
+    },
+    {
+        "ï»¿botanical": "Cascabela thevetia",
+        "local": "Bitti"
+    },
+    {
+        "ï»¿botanical": "Casearia graveolens",
+        "local": "Safed Karai"
+    },
+    {
+        "ï»¿botanical": "Casearia tomentosa",
+        "local": "Modgi"
+    },
+    {
+        "ï»¿botanical": "Cassia fistula",
+        "local": "Bahava"
+    },
+    {
+        "ï»¿botanical": "Cassia grandis",
+        "local": "Coral shower tree"
+    },
+    {
+        "ï»¿botanical": "Cassia javanica",
+        "local": "Java's Cassia"
+    },
+    {
+        "ï»¿botanical": "Cassia renigera",
+        "local": "Gulabi bahava"
+    },
+    {
+        "ï»¿botanical": "Cassia roxburghii",
+        "local": "Red cassia"
+    },
+    {
+        "ï»¿botanical": "Casuarina equisetifolia",
+        "local": "Suru"
+    },
+    {
+        "ï»¿botanical": "Catunaregam spinosa",
+        "local": "Gela"
+    },
+    {
+        "ï»¿botanical": "Ceiba pentandra",
+        "local": "Pandhari sawar"
+    },
+    {
+        "ï»¿botanical": "Ceiba speciosa",
+        "local": "Kapok"
+    },
+    {
+        "ï»¿botanical": "Cerbera manghas",
+        "local": "Sukanu"
+    },
+    {
+        "ï»¿botanical": "Chloroxylon swietenia",
+        "local": "Behru"
+    },
+    {
+        "ï»¿botanical": "Chrysophyllum cainito",
+        "local": "Tarsiphala"
+    },
+    {
+        "ï»¿botanical": "Chukrasia tabularis",
+        "local": "Karadi"
+    },
+    {
+        "ï»¿botanical": "Cinnamomum tamala",
+        "local": "Tamalpatra"
+    },
+    {
+        "ï»¿botanical": "Cinnamomum verum",
+        "local": "Dalchini"
+    },
+    {
+        "ï»¿botanical": "Citharexylum spinosum",
+        "local": "Sitaranjan"
+    },
+    {
+        "ï»¿botanical": "Citrus aurantiifolia",
+        "local": "Ambatlimbu"
+    },
+    {
+        "ï»¿botanical": "Citrus aurantium",
+        "local": "Limbu"
+    },
+    {
+        "ï»¿botanical": "Citrus maxima",
+        "local": "Papanas"
+    },
+    {
+        "ï»¿botanical": "Citrus medica",
+        "local": "Mahalunga"
+    },
+    {
+        "ï»¿botanical": "Citrus sinensis",
+        "local": "Santra"
+    },
+    {
+        "ï»¿botanical": "Citrus limon",
+        "local": "Limbu"
+    },
+    {
+        "ï»¿botanical": "Clusia rosea",
+        "local": "Autograph tree"
+    },
+    {
+        "ï»¿botanical": "Cochlospermum religiosum",
+        "local": "Ganer"
+    },
+    {
+        "ï»¿botanical": "Cocos nucifera",
+        "local": "Naral"
+    },
+    {
+        "ï»¿botanical": "Colvillea racemosa",
+        "local": "Mani-Mohar"
+    },
+    {
+        "ï»¿botanical": "Cordia dichotoma",
+        "local": "Bhokar"
+    },
+    {
+        "ï»¿botanical": "Cordia sebestena",
+        "local": "Lal cordia"
+    },
+    {
+        "ï»¿botanical": "Cordia subcordata",
+        "local": "Cordia subcordata"
+    },
+    {
+        "ï»¿botanical": "Couroupita guianensis",
+        "local": "Kailaspati"
+    },
+    {
+        "ï»¿botanical": "Crateva tapia",
+        "local": "Vaivarna"
+    },
+    {
+        "ï»¿botanical": "Crateva nurvala",
+        "local": "Katarlingad"
+    },
+    {
+        "ï»¿botanical": "Crescentia cujete",
+        "local": "Calabash tree"
+    },
+    {
+        "ï»¿botanical": "Cupressus sempervirens",
+        "local": "Saru"
+    },
+    {
+        "ï»¿botanical": "Cupressus spp",
+        "local": "NA"
+    },
+    {
+        "ï»¿botanical": "Cupressus torulosa",
+        "local": "Himalayan cypress"
+    },
+    {
+        "ï»¿botanical": "Cycas circinalis",
+        "local": "Queen sago"
+    },
+    {
+        "ï»¿botanical": "Cycas revoluta",
+        "local": "Cycas"
+    },
+    {
+        "ï»¿botanical": "Dalbergia lanceolaria",
+        "local": "Dandus"
+    },
+    {
+        "ï»¿botanical": "Dalbergia lanceolaria var.lanceolaria",
+        "local": "Takoli"
+    },
+    {
+        "ï»¿botanical": "Dalbergia lanceolaria var.paniculata",
+        "local": "Takoli"
+    },
+    {
+        "ï»¿botanical": "Dalbergia latifolia",
+        "local": "Shisham"
+    },
+    {
+        "ï»¿botanical": "Dalbergia melanoxylon",
+        "local": "Patangi"
+    },
+    {
+        "ï»¿botanical": "Dalbergia sissoo",
+        "local": "Shisav"
+    },
+    {
+        "ï»¿botanical": "Delonix elata",
+        "local": "Shwetambar"
+    },
+    {
+        "ï»¿botanical": "Delonix regia",
+        "local": "Gulmohar"
+    },
+    {
+        "ï»¿botanical": "Desmodium oojeinense",
+        "local": "Tewas"
+    },
+    {
+        "ï»¿botanical": "Dichrostachys cinerea",
+        "local": "Durangi babhul"
+    },
+    {
+        "ï»¿botanical": "Dillenia indica",
+        "local": "Mota karmal"
+    },
+    {
+        "ï»¿botanical": "Dillenia pentagyna",
+        "local": "Piwala Karmal"
+    },
+    {
+        "ï»¿botanical": "Dimocarpus longan",
+        "local": "Longan"
+    },
+    {
+        "ï»¿botanical": "Diospyros malabarica",
+        "local": "Temburi"
+    },
+    {
+        "ï»¿botanical": "Diospyros melanoxylon",
+        "local": "Tendu"
+    },
+    {
+        "ï»¿botanical": "Dolichandrone falcata",
+        "local": "Medhshingi"
+    },
+    {
+        "ï»¿botanical": "Dypsis decaryi",
+        "local": "Triangle Palm"
+    },
+    {
+        "ï»¿botanical": "Dypsis lutescens",
+        "local": "Golden cane palm"
+    },
+    {
+        "ï»¿botanical": "Ehretia laevis",
+        "local": "Datrang"
+    },
+    {
+        "ï»¿botanical": "Elaeis guineensis",
+        "local": "Tel maad"
+    },
+    {
+        "ï»¿botanical": "Elaeocarpus serratus",
+        "local": "Rudraksha"
+    },
+    {
+        "ï»¿botanical": "Erythrina suberosa",
+        "local": "Buch pangara"
+    },
+    {
+        "ï»¿botanical": "Erythrina variegata",
+        "local": "Pangara"
+    },
+    {
+        "ï»¿botanical": "Eucalyptus globulus",
+        "local": "Nilgiri"
+    },
+    {
+        "ï»¿botanical": "Eucalyptus tereticorni",
+        "local": "Forest red gum"
+    },
+    {
+        "ï»¿botanical": "Ficus amplissima",
+        "local": "Bat tree"
+    },
+    {
+        "ï»¿botanical": "Ficus arnottiana",
+        "local": "Kadak payar"
+    },
+    {
+        "ï»¿botanical": "Ficus aspera",
+        "local": "Clown fig"
+    },
+    {
+        "ï»¿botanical": "Ficus benghalensis",
+        "local": "Vad"
+    },
+    {
+        "ï»¿botanical": "Ficus benghalensis var.krishnae",
+        "local": "Krishna vad"
+    },
+    {
+        "ï»¿botanical": "Ficus benjamina",
+        "local": "Nandaruk"
+    },
+    {
+        "ï»¿botanical": "Ficus benjamina var.nuda",
+        "local": "Nandaruk"
+    },
+    {
+        "ï»¿botanical": "Ficus carica",
+        "local": "Anjeer"
+    },
+    {
+        "ï»¿botanical": "Ficus elastica",
+        "local": "Rabracha vad"
+    },
+    {
+        "ï»¿botanical": "Ficus exasperata",
+        "local": "Karvat"
+    },
+    {
+        "ï»¿botanical": "Ficus hispida",
+        "local": "Kala umber"
+    },
+    {
+        "ï»¿botanical": "Ficus lacor",
+        "local": "Basari"
+    },
+    {
+        "ï»¿botanical": "Ficus longifolia",
+        "local": "Narrow-leaf fig"
+    },
+    {
+        "ï»¿botanical": "Ficus microcarpa",
+        "local": "Nandruk"
+    },
+    {
+        "ï»¿botanical": "Ficus natalensis",
+        "local": "Triangle leaf ficus"
+    },
+    {
+        "ï»¿botanical": "Ficus palmata",
+        "local": "Jangli Anjir"
+    },
+    {
+        "ï»¿botanical": "Ficus racemosa",
+        "local": "Umber"
+    },
+    {
+        "ï»¿botanical": "Ficus religiosa",
+        "local": "Pimpal"
+    },
+    {
+        "ï»¿botanical": "Ficus rumphii",
+        "local": "Payar, Ashta"
+    },
+    {
+        "ï»¿botanical": "Ficus talbotii",
+        "local": "Talbot fig"
+    },
+    {
+        "ï»¿botanical": "Ficus virens",
+        "local": "Payar"
+    },
+    {
+        "ï»¿botanical": "Filicium decipiens",
+        "local": "Neeroli"
+    },
+    {
+        "ï»¿botanical": "Firmiana colorata",
+        "local": "Kavshi"
+    },
+    {
+        "ï»¿botanical": "Flacourtia indica",
+        "local": "Athruna"
+    },
+    {
+        "ï»¿botanical": "Flacourtia jangomas",
+        "local": "Pani amla"
+    },
+    {
+        "ï»¿botanical": "Garcinia gummi-gutta",
+        "local": "Cambodge tree"
+    },
+    {
+        "ï»¿botanical": "Garcinia indica",
+        "local": "Lkokum"
+    },
+    {
+        "ï»¿botanical": "Gardenia resinifera",
+        "local": "Dikemaali"
+    },
+    {
+        "ï»¿botanical": "Garuga pinnata",
+        "local": "Kakad"
+    },
+    {
+        "ï»¿botanical": "Gliricidia sepium",
+        "local": "Undirmari"
+    },
+    {
+        "ï»¿botanical": "Glochidion ellipticum",
+        "local": "Bhoma"
+    },
+    {
+        "ï»¿botanical": "Gmelina arborea",
+        "local": "Shivan"
+    },
+    {
+        "ï»¿botanical": "Grevillea robusta",
+        "local": "Silver oak"
+    },
+    {
+        "ï»¿botanical": "Grewia asiatica",
+        "local": "Phalsa"
+    },
+    {
+        "ï»¿botanical": "Grewia nervosa",
+        "local": "Shirali"
+    },
+    {
+        "ï»¿botanical": "Grewia tiliifolia",
+        "local": "Dhaman"
+    },
+    {
+        "ï»¿botanical": "Guazuma ulmifolia",
+        "local": "Bhadraksha"
+    },
+    {
+        "ï»¿botanical": "Haematoxylon campechianum",
+        "local": "Raktachandan"
+    },
+    {
+        "ï»¿botanical": "Haldina cordifolia",
+        "local": "Haldu"
+    },
+    {
+        "ï»¿botanical": "Hardwickia binata",
+        "local": "Kamara"
+    },
+    {
+        "ï»¿botanical": "Heterophragma quadriloculare",
+        "local": "Waras"
+    },
+    {
+        "ï»¿botanical": "Hevea brasiliensis",
+        "local": "Rubber Tree"
+    },
+    {
+        "ï»¿botanical": "Hibiscus tilliaceus",
+        "local": "Belapata"
+    },
+    {
+        "ï»¿botanical": "Holarrhena pubescens",
+        "local": "Pandhara kuda"
+    },
+    {
+        "ï»¿botanical": "Holoptelea integrifolia",
+        "local": "Vavala"
+    },
+    {
+        "ï»¿botanical": "Hydnocarpus pentandrus",
+        "local": "Kadu kawath"
+    },
+    {
+        "ï»¿botanical": "Jacaranda mimosifolia",
+        "local": "Nilmohar"
+    },
+    {
+        "ï»¿botanical": "Jatropha curcas",
+        "local": "Mogli erand"
+    },
+    {
+        "ï»¿botanical": "Khaya senegalensis",
+        "local": "East african mahogany"
+    },
+    {
+        "ï»¿botanical": "Kigelia africana",
+        "local": "Hastilinga"
+    },
+    {
+        "ï»¿botanical": "Kleinhovia hospita",
+        "local": "Bola"
+    },
+    {
+        "ï»¿botanical": "Koelreuteria bipinnata",
+        "local": "Chinese flame tree"
+    },
+    {
+        "ï»¿botanical": "Kydia calycina",
+        "local": "Bharanga"
+    },
+    {
+        "ï»¿botanical": "Lagerstroemia indica",
+        "local": "Dhayti"
+    },
+    {
+        "ï»¿botanical": "Lagerstroemia lanceolata",
+        "local": "Nandi"
+    },
+    {
+        "ï»¿botanical": "Lagerstroemia microcarpa",
+        "local": "Nana"
+    },
+    {
+        "ï»¿botanical": "Lagerstroemia speciosa",
+        "local": "Taman"
+    },
+    {
+        "ï»¿botanical": "Lannea coromandalica",
+        "local": "Shemat"
+    },
+    {
+        "ï»¿botanical": "Leucaena leucocephala",
+        "local": "Subabhul"
+    },
+    {
+        "ï»¿botanical": "Licuala grandis",
+        "local": "Ruffled fan palm"
+    },
+    {
+        "ï»¿botanical": "Limonia acidissima",
+        "local": "Kavath"
+    },
+    {
+        "ï»¿botanical": "Litchi chinensis",
+        "local": "Lichi"
+    },
+    {
+        "ï»¿botanical": "Litsea deccanensis",
+        "local": "Chikna"
+    },
+    {
+        "ï»¿botanical": "Livistona chinensis",
+        "local": "Chinese fan palm"
+    },
+    {
+        "ï»¿botanical": "Macaranga peltata",
+        "local": "Chandada"
+    },
+    {
+        "ï»¿botanical": "Madhuca longifolia",
+        "local": "Moha"
+    },
+    {
+        "ï»¿botanical": "Maesopsis eminii",
+        "local": "Umbrella Tree"
+    },
+    {
+        "ï»¿botanical": "Magnolia champaca",
+        "local": "Son chapha"
+    },
+    {
+        "ï»¿botanical": "Magnolia grandiflora",
+        "local": "Magnolia"
+    },
+    {
+        "ï»¿botanical": "Magnolia liliifera",
+        "local": "Kavathi chapha"
+    },
+    {
+        "ï»¿botanical": "Mallotus nudiflorus",
+        "local": "Petari"
+    },
+    {
+        "ï»¿botanical": "Malus domestica",
+        "local": "Safarchand"
+    },
+    {
+        "ï»¿botanical": "Mammea suriga",
+        "local": "Surangi"
+    },
+    {
+        "ï»¿botanical": "Mangifera indica",
+        "local": "Amba"
+    },
+    {
+        "ï»¿botanical": "Manihot esculenta",
+        "local": "Pavde napharin"
+    },
+    {
+        "ï»¿botanical": "Manilkara hexandra",
+        "local": "Khirni"
+    },
+    {
+        "ï»¿botanical": "Manilkara zapota",
+        "local": "Chiku"
+    },
+    {
+        "ï»¿botanical": "Markhamia lutea",
+        "local": "Siala"
+    },
+    {
+        "ï»¿botanical": "Melaleuca bracteata",
+        "local": "Golden bottle brush"
+    },
+    {
+        "ï»¿botanical": "Melia azedarach",
+        "local": "Bakneem"
+    },
+    {
+        "ï»¿botanical": "Memecylon umbellatum",
+        "local": "Anjani"
+    },
+    {
+        "ï»¿botanical": "Mesua ferrea",
+        "local": "Nagkeshar"
+    },
+    {
+        "ï»¿botanical": "Meyna spinosa",
+        "local": "Huloo"
+    },
+    {
+        "ï»¿botanical": "Millettia peguensis",
+        "local": "Humb"
+    },
+    {
+        "ï»¿botanical": "Millingtonia hortensis",
+        "local": "Akashneem"
+    },
+    {
+        "ï»¿botanical": "Mimusops elengi",
+        "local": "Bakul"
+    },
+    {
+        "ï»¿botanical": "Mitragyna parvifolia",
+        "local": "Kalamb"
+    },
+    {
+        "ï»¿botanical": "Morinda citrifolia",
+        "local": "Nagakunda"
+    },
+    {
+        "ï»¿botanical": "Morinda pubescens",
+        "local": "Bartondi"
+    },
+    {
+        "ï»¿botanical": "Moringa oleifera",
+        "local": "Shevga"
+    },
+    {
+        "ï»¿botanical": "Morus alba",
+        "local": "Common mulberry"
+    },
+    {
+        "ï»¿botanical": "Muntingia calabura",
+        "local": "Tuti"
+    },
+    {
+        "ï»¿botanical": "Murraya koenigii",
+        "local": "Singapore cherry"
+    },
+    {
+        "ï»¿botanical": "Murraya paniculata",
+        "local": "Kunti"
+    },
+    {
+        "ï»¿botanical": "Myristica fragrans",
+        "local": "Jayaphal"
+    },
+    {
+        "ï»¿botanical": "Myrtus communis",
+        "local": "Firangi methi"
+    },
+    {
+        "ï»¿botanical": "Neolamarckia cadamba",
+        "local": "Kadamba"
+    },
+    {
+        "ï»¿botanical": "Nyctanthes arbor-tristis",
+        "local": "Parijaatak"
+    },
+    {
+        "ï»¿botanical": "Ochnainte gerrima",
+        "local": "Champa"
+    },
+    {
+        "ï»¿botanical": "Olea dioica",
+        "local": "Parjamb"
+    },
+    {
+        "ï»¿botanical": "Oroxylum indicum",
+        "local": "Tetu"
+    },
+    {
+        "ï»¿botanical": "Pachira aquatica",
+        "local": "Pachira"
+    },
+    {
+        "ï»¿botanical": "Pachypodium lamerei",
+        "local": "Madagascar palm"
+    },
+    {
+        "ï»¿botanical": "Parkia biglandulosa",
+        "local": "Chendu phul"
+    },
+    {
+        "ï»¿botanical": "Parkinsonia aculeata",
+        "local": "Vilayati kikar"
+    },
+    {
+        "ï»¿botanical": "Parmentiera cereifera",
+        "local": "Candle tree"
+    },
+    {
+        "ï»¿botanical": "Peltophorum africanum",
+        "local": "African wattle"
+    },
+    {
+        "ï»¿botanical": "Peltophorum pterocarpum",
+        "local": "Sonmohar"
+    },
+    {
+        "ï»¿botanical": "Persea americana",
+        "local": "Avocado"
+    },
+    {
+        "ï»¿botanical": "Phoenix dactylifera",
+        "local": "Khajur"
+    },
+    {
+        "ï»¿botanical": "Phoenix roebelenii",
+        "local": "Pygmy date palm"
+    },
+    {
+        "ï»¿botanical": "Phoenix sylvestris",
+        "local": "Shindi"
+    },
+    {
+        "ï»¿botanical": "Phyllanthus acidus",
+        "local": "Rai awla"
+    },
+    {
+        "ï»¿botanical": "Phyllanthus emblica",
+        "local": "Awla"
+    },
+    {
+        "ï»¿botanical": "Pimenta dioica",
+        "local": "All spice"
+    },
+    {
+        "ï»¿botanical": "Pinus roxburghii",
+        "local": "Pine"
+    },
+    {
+        "ï»¿botanical": "Pithecellobium dulce",
+        "local": "Vilayati chinch"
+    },
+    {
+        "ï»¿botanical": "Platycladus orientalis",
+        "local": "Morpankhi"
+    },
+    {
+        "ï»¿botanical": "Plumeria alba",
+        "local": "Chapha"
+    },
+    {
+        "ï»¿botanical": "Plumeria obtusa",
+        "local": "Pandhra chapha"
+    },
+    {
+        "ï»¿botanical": "Plumeria rubra",
+        "local": "Lal chapha"
+    },
+    {
+        "ï»¿botanical": "Polyalthia longifolia",
+        "local": "Asupalav"
+    },
+    {
+        "ï»¿botanical": "Pongamia pinnata",
+        "local": "Karanj"
+    },
+    {
+        "ï»¿botanical": "Populus alba",
+        "local": "Poplar"
+    },
+    {
+        "ï»¿botanical": "Populus nigra",
+        "local": "Black Poplar"
+    },
+    {
+        "ï»¿botanical": "Prosopis cineraria",
+        "local": "Shami"
+    },
+    {
+        "ï»¿botanical": "Prosopis juliflora",
+        "local": "Vedi babhul"
+    },
+    {
+        "ï»¿botanical": "Pseudobombax ellipticum",
+        "local": "Shaving brush Tree"
+    },
+    {
+        "ï»¿botanical": "Psidium guajava",
+        "local": "Peru"
+    },
+    {
+        "ï»¿botanical": "Psydrax dicoccos",
+        "local": "Arsul"
+    },
+    {
+        "ï»¿botanical": "Pterocarpus marsupium",
+        "local": "Bibla"
+    },
+    {
+        "ï»¿botanical": "Pterospermum acerifolium",
+        "local": "Karnikar"
+    },
+    {
+        "ï»¿botanical": "Pterospermum suberifolium",
+        "local": "Muchkunda"
+    },
+    {
+        "ï»¿botanical": "Pterospermum xylocarpum",
+        "local": "Tada"
+    },
+    {
+        "ï»¿botanical": "Pterygota alata",
+        "local": "Narikel"
+    },
+    {
+        "ï»¿botanical": "Punica granatum",
+        "local": "Dalimb"
+    },
+    {
+        "ï»¿botanical": "Putranjiva roxburghii",
+        "local": "Putranjiva"
+    },
+    {
+        "ï»¿botanical": "Ravenala madagascariensis",
+        "local": "Traveller's palm"
+    },
+    {
+        "ï»¿botanical": "Roystonea regia",
+        "local": "Royal palm"
+    },
+    {
+        "ï»¿botanical": "Salix tetrasperma",
+        "local": "Walunj"
+    },
+    {
+        "ï»¿botanical": "Salvadora persica",
+        "local": "Pilu"
+    },
+    {
+        "ï»¿botanical": "Santalum album",
+        "local": "Chandan"
+    },
+    {
+        "ï»¿botanical": "Sapindus emarginatus",
+        "local": "Phenil"
+    },
+    {
+        "ï»¿botanical": "Sapindus mukorossi",
+        "local": "Ritha"
+    },
+    {
+        "ï»¿botanical": "Sapindus trifoliatus",
+        "local": "Ritha"
+    },
+    {
+        "ï»¿botanical": "Saraca asoca",
+        "local": "Sita Ashok"
+    },
+    {
+        "ï»¿botanical": "Schefflera actinophylla",
+        "local": "Umbrella Tree"
+    },
+    {
+        "ï»¿botanical": "Schleichera oleosa",
+        "local": "Koshimb"
+    },
+    {
+        "ï»¿botanical": "Schrebera swietenioides",
+        "local": "Mokha"
+    },
+    {
+        "ï»¿botanical": "Semecarpus anacardium",
+        "local": "Bibba"
+    },
+    {
+        "ï»¿botanical": "Senna siamea",
+        "local": "Kashid"
+    },
+    {
+        "ï»¿botanical": "Sesbania grandiflora",
+        "local": "Agasti"
+    },
+    {
+        "ï»¿botanical": "Simarouba amara",
+        "local": "Laxmitaru"
+    },
+    {
+        "ï»¿botanical": "Spathodea campanulata",
+        "local": "Pichkari"
+    },
+    {
+        "ï»¿botanical": "Spondias pinnata",
+        "local": "Ambada"
+    },
+    {
+        "ï»¿botanical": "Sterculia foetida",
+        "local": "Jungli badam"
+    },
+    {
+        "ï»¿botanical": "Sterculia urens",
+        "local": "Kahandol"
+    },
+    {
+        "ï»¿botanical": "Stereospermum chelonoides",
+        "local": "Paadal"
+    },
+    {
+        "ï»¿botanical": "Streblus asper",
+        "local": "Kharoti"
+    },
+    {
+        "ï»¿botanical": "Strychnos nux-vomica",
+        "local": "Kajra"
+    },
+    {
+        "ï»¿botanical": "Swietenia macrophylla",
+        "local": "Mothi mahogany"
+    },
+    {
+        "ï»¿botanical": "Swietenia mahagoni",
+        "local": "Mahogany"
+    },
+    {
+        "ï»¿botanical": "Syagrus romanzoffiana",
+        "local": "Sygarus palm"
+    },
+    {
+        "ï»¿botanical": "Syzygium cumini",
+        "local": "Jambhul"
+    },
+    {
+        "ï»¿botanical": "Syzygium jambos",
+        "local": "Jamb"
+    },
+    {
+        "ï»¿botanical": "Tabebuia argentea",
+        "local": "Yellow Trumpet Tree"
+    },
+    {
+        "ï»¿botanical": "Tabebuia aurea",
+        "local": "Carribean trumpet  tree"
+    },
+    {
+        "ï»¿botanical": "Tabebuia heterophylla",
+        "local": "Cuban pink trumpet  tree"
+    },
+    {
+        "ï»¿botanical": "Tabebuia rosea",
+        "local": "Pink trumpet tree"
+    },
+    {
+        "ï»¿botanical": "Tabernaemontana divaricata",
+        "local": "Tagar"
+    },
+    {
+        "ï»¿botanical": "Tamarindus indica",
+        "local": "Chinch"
+    },
+    {
+        "ï»¿botanical": "Tamarix aphylla",
+        "local": "Machika"
+    },
+    {
+        "ï»¿botanical": "Taxodium distichum",
+        "local": "Bald cypress"
+    },
+    {
+        "ï»¿botanical": "Tecomella undulata",
+        "local": "Rakhtroda"
+    },
+    {
+        "ï»¿botanical": "Tectona grandis",
+        "local": "Sag"
+    },
+    {
+        "ï»¿botanical": "Terminalia arjuna",
+        "local": "Arjun"
+    },
+    {
+        "ï»¿botanical": "Terminalia bellirica",
+        "local": "Behada"
+    },
+    {
+        "ï»¿botanical": "Terminalia catappa",
+        "local": "Deshi badam"
+    },
+    {
+        "ï»¿botanical": "Terminalia chebula",
+        "local": "Hirda"
+    },
+    {
+        "ï»¿botanical": "Terminalia crenulata",
+        "local": "Madagascar almond"
+    },
+    {
+        "ï»¿botanical": "Terminalia mantaly",
+        "local": "Kinjal"
+    },
+    {
+        "ï»¿botanical": "Terminalia paniculata",
+        "local": "Jangali bhend"
+    },
+    {
+        "ï»¿botanical": "Theobroma cacao",
+        "local": "Cocoa tree"
+    },
+    {
+        "ï»¿botanical": "Thespesia populnea",
+        "local": "Bhend"
+    },
+    {
+        "ï»¿botanical": "Toona ciliata",
+        "local": "Kunant"
+    },
+    {
+        "ï»¿botanical": "Trema orientalis",
+        "local": "Charcoal tree"
+    },
+    {
+        "ï»¿botanical": "Triadica sebifera",
+        "local": "Chinese tallow tree"
+    },
+    {
+        "ï»¿botanical": "Vitex negundo",
+        "local": "Nirgundi"
+    },
+    {
+        "ï»¿botanical": "Washingtonia filifera",
+        "local": "California Palm"
+    },
+    {
+        "ï»¿botanical": "Wodyetia bifurcata",
+        "local": "Foxtail Palm"
+    },
+    {
+        "ï»¿botanical": "Wrightia arborea",
+        "local": "Tambda Kuda"
+    },
+    {
+        "ï»¿botanical": "Wrightia tinctoria",
+        "local": "Kala kuda"
+    },
+    {
+        "ï»¿botanical": "Zanthoxylum rhetsa",
+        "local": "Chirphala"
+    },
+    {
+        "ï»¿botanical": "Ziziphus jujuba",
+        "local": "Bor"
+    }
+]

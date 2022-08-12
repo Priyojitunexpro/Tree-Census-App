@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871800501487",
+    "project_id": "treesensus-5c5b0",
+    "storage_bucket": "treesensus-5c5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871800501487:android:2bd5f781aefd7caa02171a",
+        "android_client_info": {
+          "package_name": "com.treecensus.treecensus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871800501487-pkdfg3ndea21v4ru28djirjrq826n80k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treecensus.treecensus",
+            "certificate_hash": "fe82540d81d3dab4689b2abebf7321556f031dca"
+          }
+        },
+        {
+          "client_id": "871800501487-juf6jqn8t9gggmalq65t0buubvinckf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpLT5dvcS_JEk-6ROp9FnsPbVnN2MieM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871800501487-juf6jqn8t9gggmalq65t0buubvinckf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
