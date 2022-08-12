@@ -1,4 +1,4 @@
-# treesensus
+# Tree Census App Flutter
 
 A new Flutter project.
 
